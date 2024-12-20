@@ -1,3 +1,4 @@
+📄 .gitignore
 📄 .gitignore.ProjectStructureWriter
 📄 pom.xml
 📄 project_structure.txt
@@ -22,6 +23,7 @@
 │   │   │   │   │   ├── 📄 LoginServlet.java
 │   │   │   │   │   ├── 📁 model/
 │   │   │   │   │   │   ├── 📄 Transaction.java
+│   │   │   │   │   ├── 📁 services/
 │   │   │   │   │   ├── 📄 SummaryServlet.java
 │   ├── 📁 webapp/
 │   │   ├── 📄 index.html
