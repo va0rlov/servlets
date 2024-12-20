@@ -1,0 +1,29 @@
+📄 .gitignore.ProjectStructureWriter
+📄 pom.xml
+📄 project_structure.txt
+📁 src/
+├── 📁 main/
+│   ├── 📁 java/
+│   │   ├── 📁 ru/
+│   │   │   ├── 📁 productstar/
+│   │   │   │   ├── 📄 ProjectStructureWriter.java
+│   │   │   │   ├── 📁 servlets/
+│   │   │   │   │   ├── 📁 controllers/
+│   │   │   │   │   │   ├── 📄 IncomeController.java
+│   │   │   │   │   ├── 📄 DetailsServlet.java
+│   │   │   │   │   ├── 📁 exception/
+│   │   │   │   │   │   ├── 📄 ErrorHandlerServlet.java
+│   │   │   │   │   ├── 📄 ExpensesServlet.java
+│   │   │   │   │   ├── 📁 filters/
+│   │   │   │   │   │   ├── 📄 ExpensesFilter.java
+│   │   │   │   │   ├── 📁 listeners/
+│   │   │   │   │   │   ├── 📄 GlobalExceptionLogger.java
+│   │   │   │   │   │   ├── 📄 LogAttributeChanges.java
+│   │   │   │   │   ├── 📄 LoginServlet.java
+│   │   │   │   │   ├── 📁 model/
+│   │   │   │   │   │   ├── 📄 Transaction.java
+│   │   │   │   │   ├── 📄 SummaryServlet.java
+│   ├── 📁 webapp/
+│   │   ├── 📄 index.html
+│   │   ├── 📁 WEB-INF/
+│   │   │   ├── 📄 web.xml
